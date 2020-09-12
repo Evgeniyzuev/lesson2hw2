@@ -19,7 +19,6 @@ public class Cat extends Animal{
         for (int i = 0; i < age ; i++) {
             if (sex)  System.out.print("Mau ");
             else System.out.println("mew");
-
         }
         System.out.println();
     }
